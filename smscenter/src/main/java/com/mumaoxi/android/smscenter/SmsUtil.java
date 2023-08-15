@@ -1,4 +1,4 @@
-package com.mumaoxi.android.smscenter;
+package com.NicolasYiu.android.smscenter;
 
 import android.app.Activity;
 import android.database.Cursor;
